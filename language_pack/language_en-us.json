@@ -1,0 +1,36 @@
+{
+  "cmd": {
+    "lang": {
+      "SWITCH_LANG": "Switch language to %s",
+      "ERROR_PERMISSION": "You do not have the permission to switch language.",
+      "ERROR_COOLDOWN": "Please wait until `%s` to execute this command again."
+    },
+    "game": {
+      "connect4": {
+        "NAME": "Connect Four",
+
+        "WAIT": "Waiting for players...",
+        "PLAYERS": "Players",
+        "STATUS": "Status",
+        "STATUS_WAIT": "Need %d more player(s)",
+        "STATUS_PREPARE": "Game preparing...",
+        "JOIN": "Join this game",
+        "ABORT": "ABORT",
+        "ABORT_SUCCESS": "The game has been cancelled successfully.",
+
+        "CURRENT": "Current player(%s)",
+        "NEXT": "Next player(%s)",
+        "WINNER": "Winner(%s)",
+        "DRAW": "Draw(%s, %s)",
+        "WINNER_MENTION": "%s is the WINNER",
+        "DRAW_MENTION": "%s, %s. It’s a tie for first place.",
+
+        "TIMEOUT": "This game has been aborted because time limit is exceeded.",
+        "ERROR_JOIN": "You have already in this game, or this game is full.",
+        "ERROR_ABORT": "Only game creator can abort this game.",
+        "ERROR_OPERATE": "Only %s can do this action.",
+        "ERROR_OUTOFSLOT": "Out of slot."
+      }
+    }
+  }
+}

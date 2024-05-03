@@ -1,0 +1,36 @@
+{
+  "cmd": {
+    "lang": {
+      "SWITCH_LANG": "切換語言至 %s",
+      "ERROR_PERMISSION": "權限不足，無法更改語言",
+      "ERROR_COOLDOWN": "請等待冷卻時間 `%s` 結束後再次執行指令"
+    },
+    "game": {
+      "connect4": {
+        "NAME": "四子棋",
+
+        "WAIT": "等候玩家中...",
+        "PLAYERS": "玩家列表",
+        "STATUS": "遊戲狀態",
+        "STATUS_WAIT": "尚須 %d 位玩家",
+        "STATUS_PREPARE": "遊戲準備中...",
+        "JOIN": "加入遊戲",
+        "ABORT": "強制取消遊戲",
+        "ABORT_SUCCESS": "遊戲已被成功強制取消",
+
+        "CURRENT": "現操縱玩家（%s）",
+        "NEXT": "下一位玩家（%s）",
+        "WINNER": "獲勝者（%s）",
+        "DRAW": "平手（%s、%s）",
+        "WINNER_MENTION": "%s 獲得勝利",
+        "DRAW_MENTION": "%s、%s 雙方平手",
+
+        "TIMEOUT": "已超過操作時間限制，遊戲自動取消",
+        "ERROR_JOIN": "你已經加入遊戲或遊戲已經滿人了",
+        "ERROR_ABORT": "只有遊戲建立者可以強制取消遊戲",
+        "ERROR_OPERATE": "只有 %s 可以操作目前動作",
+        "ERROR_OUTOFSLOT": "超出可操作範圍"
+      }
+    }
+  }
+}
